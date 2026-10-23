@@ -1,0 +1,459 @@
+{
+ "bosses": [
+  {
+   "name": "paylater_slime_full",
+   "file": "game/bosses_paylater_slime_full.png",
+   "w": 220,
+   "h": 152
+  },
+  {
+   "name": "paylater_slime_hurt",
+   "file": "game/bosses_paylater_slime_hurt.png",
+   "w": 217,
+   "h": 144
+  },
+  {
+   "name": "paylater_slime_weak",
+   "file": "game/bosses_paylater_slime_weak.png",
+   "w": 210,
+   "h": 129
+  },
+  {
+   "name": "paylater_slime_defeated",
+   "file": "game/bosses_paylater_slime_defeated.png",
+   "w": 220,
+   "h": 138
+  },
+  {
+   "name": "card_imp_full",
+   "file": "game/bosses_card_imp_full.png",
+   "w": 220,
+   "h": 185
+  },
+  {
+   "name": "card_imp_hurt",
+   "file": "game/bosses_card_imp_hurt.png",
+   "w": 209,
+   "h": 172
+  },
+  {
+   "name": "card_imp_weak",
+   "file": "game/bosses_card_imp_weak.png",
+   "w": 190,
+   "h": 132
+  },
+  {
+   "name": "card_imp_defeated",
+   "file": "game/bosses_card_imp_defeated.png",
+   "w": 220,
+   "h": 151
+  },
+  {
+   "name": "gadget_golem_full",
+   "file": "game/bosses_gadget_golem_full.png",
+   "w": 220,
+   "h": 181
+  },
+  {
+   "name": "gadget_golem_hurt",
+   "file": "game/bosses_gadget_golem_hurt.png",
+   "w": 220,
+   "h": 191
+  },
+  {
+   "name": "gadget_golem_weak",
+   "file": "game/bosses_gadget_golem_weak.png",
+   "w": 195,
+   "h": 180
+  },
+  {
+   "name": "gadget_golem_defeated",
+   "file": "game/bosses_gadget_golem_defeated.png",
+   "w": 220,
+   "h": 144
+  },
+  {
+   "name": "pawn_goblin_full",
+   "file": "game/bosses_pawn_goblin_full.png",
+   "w": 220,
+   "h": 199
+  },
+  {
+   "name": "pawn_goblin_hurt",
+   "file": "game/bosses_pawn_goblin_hurt.png",
+   "w": 209,
+   "h": 191
+  },
+  {
+   "name": "pawn_goblin_weak",
+   "file": "game/bosses_pawn_goblin_weak.png",
+   "w": 205,
+   "h": 156
+  },
+  {
+   "name": "pawn_goblin_defeated",
+   "file": "game/bosses_pawn_goblin_defeated.png",
+   "w": 220,
+   "h": 147
+  },
+  {
+   "name": "iou_ghost_full",
+   "file": "game/bosses_iou_ghost_full.png",
+   "w": 195,
+   "h": 194
+  },
+  {
+   "name": "iou_ghost_hurt",
+   "file": "game/bosses_iou_ghost_hurt.png",
+   "w": 177,
+   "h": 191
+  },
+  {
+   "name": "iou_ghost_weak",
+   "file": "game/bosses_iou_ghost_weak.png",
+   "w": 153,
+   "h": 154
+  },
+  {
+   "name": "iou_ghost_defeated",
+   "file": "game/bosses_iou_ghost_defeated.png",
+   "w": 220,
+   "h": 157
+  },
+  {
+   "name": "dragon_king_full",
+   "file": "game/bosses_dragon_king_full.png",
+   "w": 216,
+   "h": 220
+  },
+  {
+   "name": "dragon_king_hurt",
+   "file": "game/bosses_dragon_king_hurt.png",
+   "w": 210,
+   "h": 220
+  },
+  {
+   "name": "dragon_king_weak",
+   "file": "game/bosses_dragon_king_weak.png",
+   "w": 220,
+   "h": 195
+  },
+  {
+   "name": "dragon_king_defeated",
+   "file": "game/bosses_dragon_king_defeated.png",
+   "w": 220,
+   "h": 161
+  }
+ ],
+ "icons": [
+  {
+   "name": "coin",
+   "file": "game/icons_coin.png",
+   "w": 96,
+   "h": 94
+  },
+  {
+   "name": "gem",
+   "file": "game/icons_gem.png",
+   "w": 96,
+   "h": 90
+  },
+  {
+   "name": "egg_ticket",
+   "file": "game/icons_egg_ticket.png",
+   "w": 96,
+   "h": 76
+  },
+  {
+   "name": "xp",
+   "file": "game/icons_xp.png",
+   "w": 96,
+   "h": 85
+  },
+  {
+   "name": "rice",
+   "file": "game/icons_rice.png",
+   "w": 96,
+   "h": 91
+  },
+  {
+   "name": "fruit",
+   "file": "game/icons_fruit.png",
+   "w": 96,
+   "h": 87
+  },
+  {
+   "name": "skewer",
+   "file": "game/icons_skewer.png",
+   "w": 91,
+   "h": 96
+  },
+  {
+   "name": "cake",
+   "file": "game/icons_cake.png",
+   "w": 95,
+   "h": 96
+  },
+  {
+   "name": "milk",
+   "file": "game/icons_milk.png",
+   "w": 64,
+   "h": 96
+  },
+  {
+   "name": "book",
+   "file": "game/icons_book.png",
+   "w": 92,
+   "h": 96
+  },
+  {
+   "name": "scroll",
+   "file": "game/icons_scroll.png",
+   "w": 96,
+   "h": 93
+  },
+  {
+   "name": "pencil_case",
+   "file": "game/icons_pencil_case.png",
+   "w": 96,
+   "h": 57
+  },
+  {
+   "name": "sword",
+   "file": "game/icons_sword.png",
+   "w": 87,
+   "h": 96
+  },
+  {
+   "name": "shield",
+   "file": "game/icons_shield.png",
+   "w": 94,
+   "h": 96
+  },
+  {
+   "name": "potion",
+   "file": "game/icons_potion.png",
+   "w": 84,
+   "h": 96
+  },
+  {
+   "name": "staff",
+   "file": "game/icons_staff.png",
+   "w": 86,
+   "h": 96
+  },
+  {
+   "name": "crystal",
+   "file": "game/icons_crystal.png",
+   "w": 88,
+   "h": 96
+  },
+  {
+   "name": "scale",
+   "file": "game/icons_scale.png",
+   "w": 96,
+   "h": 93
+  },
+  {
+   "name": "feather",
+   "file": "game/icons_feather.png",
+   "w": 82,
+   "h": 96
+  },
+  {
+   "name": "key",
+   "file": "game/icons_key.png",
+   "w": 87,
+   "h": 96
+  },
+  {
+   "name": "chest",
+   "file": "game/icons_chest.png",
+   "w": 96,
+   "h": 82
+  },
+  {
+   "name": "pouch",
+   "file": "game/icons_pouch.png",
+   "w": 94,
+   "h": 96
+  },
+  {
+   "name": "piggy",
+   "file": "game/icons_piggy.png",
+   "w": 96,
+   "h": 87
+  },
+  {
+   "name": "calendar",
+   "file": "game/icons_calendar.png",
+   "w": 96,
+   "h": 84
+  }
+ ],
+ "eggs": [
+  {
+   "name": "starter_whole",
+   "file": "game/eggs_starter_whole.png",
+   "w": 170,
+   "h": 180
+  },
+  {
+   "name": "common_whole",
+   "file": "game/eggs_common_whole.png",
+   "w": 168,
+   "h": 180
+  },
+  {
+   "name": "rare_whole",
+   "file": "game/eggs_rare_whole.png",
+   "w": 166,
+   "h": 180
+  },
+  {
+   "name": "epic_whole",
+   "file": "game/eggs_epic_whole.png",
+   "w": 166,
+   "h": 180
+  },
+  {
+   "name": "legendary_whole",
+   "file": "game/eggs_legendary_whole.png",
+   "w": 172,
+   "h": 180
+  },
+  {
+   "name": "starter_cracking",
+   "file": "game/eggs_starter_cracking.png",
+   "w": 171,
+   "h": 180
+  },
+  {
+   "name": "common_cracking",
+   "file": "game/eggs_common_cracking.png",
+   "w": 173,
+   "h": 180
+  },
+  {
+   "name": "rare_cracking",
+   "file": "game/eggs_rare_cracking.png",
+   "w": 176,
+   "h": 180
+  },
+  {
+   "name": "epic_cracking",
+   "file": "game/eggs_epic_cracking.png",
+   "w": 170,
+   "h": 180
+  },
+  {
+   "name": "legendary_cracking",
+   "file": "game/eggs_legendary_cracking.png",
+   "w": 173,
+   "h": 180
+  },
+  {
+   "name": "starter_hatched",
+   "file": "game/eggs_starter_hatched.png",
+   "w": 180,
+   "h": 121
+  },
+  {
+   "name": "common_hatched",
+   "file": "game/eggs_common_hatched.png",
+   "w": 180,
+   "h": 121
+  },
+  {
+   "name": "rare_hatched",
+   "file": "game/eggs_rare_hatched.png",
+   "w": 180,
+   "h": 124
+  },
+  {
+   "name": "epic_hatched",
+   "file": "game/eggs_epic_hatched.png",
+   "w": 180,
+   "h": 127
+  },
+  {
+   "name": "legendary_hatched",
+   "file": "game/eggs_legendary_hatched.png",
+   "w": 180,
+   "h": 125
+  }
+ ],
+ "backgrounds": {
+  "home": {
+   "file": "game/bg_home.webp",
+   "w": 720,
+   "h": 1279
+  },
+  "dungeon": {
+   "file": "game/bg_dungeon.webp",
+   "w": 720,
+   "h": 1281
+  }
+ },
+ "icons2": [
+  {
+   "name": "snack",
+   "file": "game/icons2_snack.png",
+   "w": 96,
+   "h": 80
+  },
+  {
+   "name": "feast",
+   "file": "game/icons2_feast.png",
+   "w": 96,
+   "h": 72
+  },
+  {
+   "name": "dragonfruit",
+   "file": "game/icons2_dragonfruit.png",
+   "w": 96,
+   "h": 84
+  },
+  {
+   "name": "orb",
+   "file": "game/icons2_orb.png",
+   "w": 96,
+   "h": 88
+  },
+  {
+   "name": "ring",
+   "file": "game/icons2_ring.png",
+   "w": 90,
+   "h": 96
+  },
+  {
+   "name": "amulet",
+   "file": "game/icons2_amulet.png",
+   "w": 91,
+   "h": 96
+  },
+  {
+   "name": "monocle",
+   "file": "game/icons2_monocle.png",
+   "w": 94,
+   "h": 96
+  },
+  {
+   "name": "bag",
+   "file": "game/icons2_bag.png",
+   "w": 96,
+   "h": 86
+  }
+ ],
+ "logo": {
+  "file": "game/logo_wordmark.png",
+  "w": 900,
+  "h": 231
+ },
+ "appicon": {
+  "512": "game/appicon/icon_512.png",
+  "192": "game/appicon/icon_192.png",
+  "180": "game/appicon/icon_180.png",
+  "32": "game/appicon/icon_32.png"
+ }
+}
